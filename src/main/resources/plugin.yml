@@ -1,0 +1,4 @@
+name: NTAPI
+main: com.nebulatoxin.NTSystem
+version: 1.0.0
+api-version: "1.14"
